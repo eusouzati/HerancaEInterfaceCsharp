@@ -1,0 +1,16 @@
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csprojAssemblyReference.cache
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\workspace\Alura\CSharp\EntendendoHerancaEInterface\ByteBank\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
